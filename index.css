@@ -5,4 +5,15 @@
 
 .Nav{
     justify-content: left;
+    display: inline-flex;
+}
+.Service{
+    background-color: aquamarine;
+    text-align: center;
+    margin-top: -20px;
+    
+}
+.Serve{
+    display: inline-flex;
+    justify-content: space-around;
 }
