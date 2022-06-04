@@ -17,3 +17,16 @@
     display: inline-flex;
     justify-content: space-around;
 }
+
+.Arch{
+    display: inline-flex;
+    justify-content: space-between;
+}
+.Done{
+    margin: 20px;
+}
+
+Dtwo{
+    margin: 20px;
+    margin-left: 100px;
+}
