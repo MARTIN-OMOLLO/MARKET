@@ -1,5 +1,5 @@
 .Top{
-    background-color: aquamarine;
+    background-color: rgb(169, 207, 245);
     text-align: center;
 }
 
@@ -8,7 +8,7 @@
     display: inline-flex;
 }
 .Service{
-    background-color: aquamarine;
+    background-color: rgb(169, 207, 245);
     text-align: center;
     margin-top: -20px;
     
@@ -40,6 +40,11 @@ Dtwo{
    background-attachment: fixed;
    background-position: center;
    width: 100%;
-   background-color: aquamarine;
+   background-color: rgb(169, 207, 245);
     
+}
+
+.Server{
+   text-align: center;
+   background-color: rgb(169, 207, 245);
 }
