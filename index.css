@@ -2,10 +2,15 @@
     background-color: rgb(169, 207, 245);
     text-align: center;
 }
+.stat{
+    display: inline-flex;
+}
 
 .Nav{
     justify-content: left;
     display: inline-flex;
+    margin-left: 760px;
+    margin-top: -50px;
 }
 .Service{
     background-color: rgb(169, 207, 245);
@@ -32,14 +37,14 @@ Dtwo{
 }
 
 .About{
-   background-image:url(images/odumbe1.jpg);
+   /* background-image:url(images/odumbe1.jpg); */
    /* background-size:cover; */
    text-align:center;
-   height:100vh;
+   /* height:150vh; */
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-position: center;
-   width: 100%;
+   /* width: 100%; */
    background-color: rgb(169, 207, 245);
     
 }
@@ -47,4 +52,48 @@ Dtwo{
 .Server{
    text-align: center;
    background-color: rgb(169, 207, 245);
+}
+
+.services{
+    /* display: inline-flex; */
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Poster{
+    box-shadow: 0 -1px 4px 0 blue;
+    transition: 1.8s;
+    height: 550px;
+    /* margin: 25px; */
+    border-radius: 55px;
+    /* padding: 20px; */
+    width: 600px;
+}
+.Interior{
+    box-shadow: 0 -1px 4px 0 blue;
+    transition: 1.8s;
+    height: 550px;
+    /* margin: 25px; */
+    border-radius: 55px;
+    /* padding: 20px; */
+    width: 600px;
+}
+.Education{
+    box-shadow: 0 -1px 4px 0 blue;
+    transition: 1.8s;
+    height: 550px;
+    /* margin: 25px; */
+    border-radius: 55px;
+    /* padding: 20px; */
+    width: 600px;
+}
+.education{
+    box-shadow: 0 -1px 4px 0 blue;
+    transition: 1.8s;
+    height: 550px;
+    /* margin: 25px; */
+    border-radius: 55px;
+    /* padding: 20px; */
+    width: 600px;
 }
